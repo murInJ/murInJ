@@ -1,8 +1,10 @@
 # Hi! I`m MurInj!
 
+<img align="right" width="88" src="https://github.com/murInJ/murInJ/blob/main/assert/chara.png" />
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<img align="right" width="88" src="[https://github.com/murInJ/murInJ/blob/main/assert/chara.png](https://github.com/murInJ/murInJ/blob/main/assert/chara.png)" />
+
 
 > [天人感应]在未知的幽暗边界，直觉如星辰般指引，我们必须启程，将人工智能的种子播入现实之土，以探索其在宇宙剧场中的无限潜能和伦理深渊
 
