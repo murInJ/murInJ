@@ -16,13 +16,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/murInJ/murInJ/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 🏢 Education Experience
-
-<img align="right" width="88" src="https://www.cdut.edu.cn/__local/C/7B/23/62653F5B103D730D5CF631D8032_ADC706A3_193C4.png" />
-
-- [成都理工大学](https://www.cdut.edu.cn/) &emsp;双一流学科建设大学 📌 2020-09-01 —— Now
-  
-  - 欧阳明高院士工作站优秀青年学生名单入选者
-  - 中国大学生计算机博弈大赛冠军
 
 
